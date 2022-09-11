@@ -1,0 +1,2 @@
+# translator-app
+Çeviri Uygulaması
