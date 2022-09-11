@@ -6,6 +6,7 @@ const translateBtn = document.getElementById("translateBtn");
 const exchange = document.querySelector(".exchange");
 const icons = document.querySelectorAll(".icons");
 
+const a = 1;
 
 for (let lang in languages){
     
